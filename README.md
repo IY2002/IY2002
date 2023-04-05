@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **IsmaelY2002@gmail.com**
 
-- ⚡ Fun fact **I have consistently earned a spot on the Dean's List for every semester that I have been enrolled.**
+- ⚡ Fun fact **I competed at the 2023 ECNA International Collegiate Programming Contest representing Penn State**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
