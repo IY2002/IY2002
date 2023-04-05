@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently looking for **a summer internship**
 
-- 📫 How to reach me **IsmaelY2002@gmail.com**
+- 🌱 I’m currently learning **Systems Programming, Computer Archeticture, and Algorithms**
+
+- 📫 How to reach me: **IsmaelY2002@gmail.com**
+
+- ⚡ Fun fact **I'm proud to have consistently earned a spot on the Dean's List every semester I was enrolled.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
