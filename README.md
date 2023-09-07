@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **a summer internship**
 
-- 🌱 I’m currently learning **Systems Programming, Computer Archeticture, and Algorithms**
+- 🌱 I’m currently learning **Operating Systems, Computer Vision, and Embedded Systems**
 
 - 📫 How to reach me: **IsmaelY2002@gmail.com**
 
