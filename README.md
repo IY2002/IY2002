@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismael Youssef</h1>
-<h3 align="center">A Computer Engineering Student at Penn State with a 4.0 GPA.</h3>
+<h3 align="center">A Computer Engineering Student at Penn State with a 3.99 GPA.</h3>
 
-- 🔭 I’m currently looking for **a summer internship**
+- 🔭 I’m currently looking for **Full-Time Entry Position**
 
 - 🌱 I’m currently learning **Operating Systems, Computer Vision, and Embedded Systems**
 
