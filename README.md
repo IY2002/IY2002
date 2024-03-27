@@ -4,8 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Operating Systems, Computer Vision, and Embedded Systems**
-
+- 🌱 I’m currently learning **FPGAs, HLS, and Wireless Communications and Security**
 - 📫 How to reach me: **IsmaelY2002@gmail.com**
 
 - ⚡ Fun fact **I competed at the 2023 ECNA International Collegiate Programming Contest representing Penn State**
